@@ -32,3 +32,9 @@ while (num <= 10) {
     console.log("The Number is: ", num);
     num += 2;
 };
+
+// Task 6
+function calculateSquare(digit) {
+    return digit * digit;
+}
+console.log(calculateSquare(4));

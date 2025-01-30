@@ -24,4 +24,11 @@ if (score >= 60) {
 for (let i = 10; i >= 1; i--) {
     console.log("Iteration: ", i);
     
-}
+};
+
+//Task 5
+let num = 2;
+while (num <= 10) {
+    console.log("The Number is: ", num);
+    num += 2;
+};
